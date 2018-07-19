@@ -11,7 +11,7 @@ h1{
 p{ 
 	color: #4d94ff;
 	font-size: 22px;
-	border: 10px double double #d580ff;
+	border: 10px double dotted #d580ff;
 	padding: 50px;
 	margin: 25px;	
 	width: 500px;
