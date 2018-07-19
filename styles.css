@@ -1,17 +1,17 @@
 body{
-	background-color: #ffff5c;
+	background-color: #ffff99;
 	text-align: center;
 				}
 h1{ 
-	color: #99ccff;
+	color: #4d94ff;
 	font-size: 50px; 
 	text-align: center;
 	
 			}
 p{ 
-	color: #99ccff;
+	color: #4d94ff;
 	font-size: 22px;
-	border: 10px double #e6b3ff;
+	border: 10px double #d580ff;
 	padding: 50px;
 	margin: 25px;	
 	width: 500px;
