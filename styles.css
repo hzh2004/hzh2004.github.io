@@ -14,9 +14,9 @@ p{
 	font-size: 22px;
 	border: 10px dotted #0000e6;
 	padding: 50px;
-	margin: 25px;	
 	width: 500px;
 	border-radius: 50%;
 	font-weight: bold;
-	text-align: center;
+	width: 500px;
+	margin-left: 600px
 			}
